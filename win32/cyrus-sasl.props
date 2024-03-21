@@ -8,7 +8,7 @@
     <SaslDependencyRoot>$(InstallRoot)</SaslDependencyRoot>
     <SaslDependencyLibDir>$(InstallLibDir)</SaslDependencyLibDir>
     <SaslIntermediateLibDir>$(SolutionDir)$(Platform)\$(Configuration)</SaslIntermediateLibDir>
-    <Krb5Dir>C:\msvc\krb</Krb5Dir>
+    <Krb5Dir>C:\Program Files\MIT\Kerberos</Krb5Dir>
   </PropertyGroup>
   <PropertyGroup>
     <IntDir>$(ProjectName)\$(Platform)\$(Configuration)\</IntDir>
